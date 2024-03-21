@@ -16,7 +16,7 @@ To run the Vigenère Encryption Password Manager, you'll need Python installed o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Radfahrer00/Caesar-Encryption-Password-Manager.git
+   git clone https://github.com/Radfahrer00/Vigenere-Encryption-Password-Manager.git
 
 2. Navigate to the project directory:
    ```bash

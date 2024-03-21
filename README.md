@@ -20,7 +20,7 @@ To run the Vigenère Encryption Password Manager, you'll need Python installed o
 
 2. Navigate to the project directory:
    ```bash
-   cd Caesar-Encryption-Password-Manager
+   cd Vigenere-Encryption-Password-Manager
 
 3. Start the password manager
    ```bash
